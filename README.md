@@ -15,3 +15,8 @@ https://github.com/user-attachments/assets/3d445ea3-ab52-4f54-9733-4fe28bebf72b
 
 ### Circuit
 ![IMG_2355](https://github.com/user-attachments/assets/3a1b5a1c-1960-4240-bc6d-a6ec31b8f00f)
+> Components: Resistor (1k ohm and 250 ohm), Photoresistor, and LED
+
+### Future Modifications
++ Scaling the model up to work with larger lights (voltage and circuit management required)
++ Adding a display that keeps track of the light levels and time
